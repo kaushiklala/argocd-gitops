@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: hello-node-typescript
+description: Chart to configure ArgoCD with the hello-node-typescript project and its applications

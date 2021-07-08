@@ -1,0 +1,3 @@
+global: {}
+hello-node-typescript:
+  replicaCount: 1
