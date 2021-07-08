@@ -1,5 +1,4 @@
 dependencies:
   - name: hello-node-typescript
-    version: 0.0.2
-    repository: >-
-      http://artifactory-artifactory.tools:8082/artifactory/generic-local/kl-dev
+    version: 0.0.3
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/kl-dev
